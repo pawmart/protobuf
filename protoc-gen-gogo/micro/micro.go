@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	pb "github.com/lukerodham/protobuf/protoc-gen-go/descriptor"
-	"github.com/lukerodham/protobuf/protoc-gen-go/generator"
+	pb "github.com/gogo/protobuf/protoc-gen-gogo/descriptor"
+	"github.com/gogo/protobuf/protoc-gen-gogo/generator"
 )
 
 // Paths for packages used by code generated in this file,
