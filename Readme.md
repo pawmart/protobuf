@@ -4,6 +4,11 @@
 
 gogoprotobuf is a fork of <a href="https://github.com/golang/protobuf">golang/protobuf</a> with extra code generation features.
 
+
+## NOTE
+This repo has been updated with the go-micro grpc protobuf plugin. <a href="https://github.com/micro/protobuf">go-micro protobuf</a>
+
+
 This code generation is used to achieve:
 
   - fast marshalling and unmarshalling
